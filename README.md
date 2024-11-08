@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![js](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![js](https://img.shields.io/badge/Android-666666?style=for-the-badge&logo=microsoft&logoColor=white)
- ![js](https://img.shields.io/badge/OracleDB-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![js](https://img.shields.io/badge/Oracle-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
