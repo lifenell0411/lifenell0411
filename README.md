@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/Android-666666?style=for-the-badge&logo=microsoft&logoColor=white)
  ![js](https://img.shields.io/badge/Oracle-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
