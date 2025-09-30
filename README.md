@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![js](https://img.shields.io/badge/Android-666666?style=for-the-badge&logo=microsoft&logoColor=white)
  ![js](https://img.shields.io/badge/Oracle-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
